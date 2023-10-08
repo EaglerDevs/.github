@@ -1,2 +1,2 @@
-# Update:  We have moved on to [HEXClient][https://github.com/HEXClient]
+# Update: We have moved on to HEX Client [HEX Client](https://github.com/HEXClient/)
 It is a Minecraft Client
