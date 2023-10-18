@@ -1,2 +1,2 @@
 ## EaglerCraft will live on 🦅🧱 
-## Let continue to let it thrive!
+## Lets continue to let it thrive!
