@@ -1,2 +1,1 @@
-## EaglerCraft will live on 🦅🧱 
-## Lets continue to let it thrive!
+## We have moved on to Klockcraft: https://github.com/Klockcraft-Offical
