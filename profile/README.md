@@ -7,4 +7,4 @@ This project is not a feature port like EaglyMC!
 
 # NOTE:-
 ***The project only mimic's Minecraft like behaviour, it is not MineCraft but is Eaglercraft. It doesn't use MineCraft's source, maybe? IDk, mate. And if it does, the source then will not be made public. It cant be taken down because it doesn't violate the EULA, but I never agreed to it. Regards, The Developers, EaglerDevs***
-# The EaglerDevs are back, btw.
+# The EaglerDevs are back, btw from the DEAD
